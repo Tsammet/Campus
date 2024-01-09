@@ -4,6 +4,7 @@ from profesores import cargarProfesores
 from matriculas import cargarMatriculas
 from datetime import datetime, timedelta
 
+
 def cargarRutas():
 
     file = open("rutas.json")
