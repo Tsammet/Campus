@@ -1,0 +1,56 @@
+[
+    {
+        "identificador": "Node",
+        "nombre": "Node.JS",
+        "profesor": "no asignado",
+        "estudiantes": [],
+        "estado": "No matriculado",
+        "horario": "maniana",
+        "areaEntrenamiento": "Sputnik",
+        "modulos": [
+            "FPNODE",
+            "PWNODE"
+        ]
+    },
+    {
+        "identificador": "Java",
+        "nombre": "Java",
+        "profesor": "no asignado",
+        "estudiantes": [],
+        "estado": "No matriculado",
+        "horario": "tarde",
+        "areaEntrenamiento": "Apolo",
+        "modulos": [
+            "FPJAVA",
+            "PWJAVA"
+        ]
+    },
+    {
+        "identificador": "Net",
+        "nombre": "NetCore",
+        "profesor": "no asignado",
+        "estudiantes": [],
+        "estado": "No matriculado",
+        "horario": "noche",
+        "areaEntrenamiento": "Artemis",
+        "modulos": [
+            "FPNET",
+            "PWNET"
+        ]
+    },
+    {
+        "identificador": "Python",
+        "nombre": "Python",
+        "profesor": "Tsammet",
+        "estudiantes": [
+            "1",
+            "2"
+        ],
+        "estado": "matriculado",
+        "horario": "tarde",
+        "areaEntrenamiento": "Apolo",
+        "modulos": [
+            "FPPYTHON"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "identificacion": "1",
+        "nombre": "pedro",
+        "horario": {
+            "maniana": "disponible",
+            "tarde": "disponible",
+            "noche": "disponible"
+        }
+    },
+    {
+        "identificacion": "2",
+        "nombre": "santiago",
+        "horario": {
+            "maniana": "disponible",
+            "tarde": "disponible",
+            "noche": "disponible"
+        }
+    },
+    {
+        "identificacion": "03",
+        "nombre": "Kakis",
+        "horario": {
+            "maniana": "disponible",
+            "tarde": "ocupado",
+            "noche": "disponible"
+        }
+    },
+    {
+        "identificacion": "04",
+        "nombre": "Tsammet",
+        "horario": {
+            "maniana": "disponible",
+            "tarde": "ocupado",
+            "noche": "disponible"
+        }
+    }
+]
